@@ -7,3 +7,5 @@ CNNs are employed to extract spatial features from facial images, enabling the m
 The Sequential model processes these features through multiple layers, while the Wide & Deep model integrates memorization and generalization for more accurate predictions. 
 
 The goal is to achieve high accuracy in recognizing emotions like happiness, sadness, anger, and surprise by leveraging these powerful architectures.
+
+Enjoy!!!
